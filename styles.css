@@ -1,0 +1,12 @@
+p { 
+	background-color: pink;
+}
+
+p.other { 
+	background: gray;
+}
+
+#end {
+    	background-color: mint;
+}
+
