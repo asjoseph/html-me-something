@@ -1,12 +1,25 @@
 p { 
 	background-color: pink;
+	padding: 5%;
+	
+}
+
+h1 {
+	color: rgb(151, 175, 197);
+	margin-left: 5%; 	
+
 }
 
 p.other { 
 	background: gray;
+	padding: 5%;
 }
 
 #end {
-    	background-color: mint;
+		background-color: rgb(151, 175, 197);
+		padding: 5%;
 }
 
+#trucker {
+		margin-left: 5%; 	
+}
